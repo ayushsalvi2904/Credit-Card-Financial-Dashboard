@@ -72,12 +72,12 @@ The project is built using two datasets:
 
 # 📷 Dashboard Preview
 
-## Customer Report Dashboard
+## Credit Card Transaction Report
 
 <img width="934" height="660" alt="Dashboard Preview" src="https://github.com/user-attachments/assets/bd84313a-cd8b-4d70-871f-ecda61de55aa" />
 
 
-
+# Credit Card Customer Report
 <img width="1398" height="850" alt="Screenshot 2026-05-29 204649" src="https://github.com/user-attachments/assets/f2980416-2a2d-43fb-a001-acee2c9bc5aa" />
 
 
